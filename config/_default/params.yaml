@@ -50,7 +50,7 @@ contact_links:
     icon_pack: fab
     name: Connect
     link: 'https://keybase.io/'
-  - icon: mail
+  - icon: envelope
     icon_pack: fas
     name: Email
     link: 'https://discourse.gohugo.io'
