@@ -57,8 +57,8 @@ contact_links:
 
 main_menu:
   enable: true
-  align: 2
-  show_logo: false
+  align: 1
+  show_logo: true
   show_language: false
   show_day_night: true
   show_search: true
