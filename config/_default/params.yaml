@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: strawberry
+theme: forest
 day_night: true
 font: ''
 font_size: L
@@ -19,14 +19,14 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: chaudhary8236@gmail.com
-phone: 888 888 88 88
+#phone: 870 005 21 79
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  #street: 450 Serra Mall
+  city: Greater Noida
+  region: Uttar Pradesh
   postcode: '94305'
-  country: United States
-  country_code: US
+  country: India
+  #country_code: US
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
