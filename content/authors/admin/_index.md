@@ -68,4 +68,7 @@ highlight_name: false
 ---
 I am Anshika Chaudhary, senior year undergraduate student at Indian Institute of Technology Kanpur. I am pursuing my B.Tech majors in Materials Science and Engineering, with a minor in Industrial and Management Engineering. My interests vary across domains ranging from programming, economics, management to sociology, biomaterials and analytics.
 I love to learn and explore new stuff. Apart from my academics, I am actively involved in sports with a special liking towards running. I have recently started reading books and journaling. My other interests involve skeching, trekking, cycling and travelling.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
