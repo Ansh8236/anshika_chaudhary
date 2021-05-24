@@ -67,8 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Anshika Chaudhary, senior year undergraduate student at Indian Institute of Technology Kanpur. I am pursuing my B.Tech majors in Materials Science and Engineering, with a minor in Industrial and Management Engineering. My interests vary across domains ranging from programming, economics, management to sociology, biomaterials and analytics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+I love to learn and explore new stuff. Apart from my academics, I am actively involved in sports with a special liking towards running. I have recently started reading books and journaling. My other interests involve skeching, trekking, cycling and travelling.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
