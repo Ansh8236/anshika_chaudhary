@@ -56,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,5 @@ highlight_name: false
 I am Anshika Chaudhary, senior year undergraduate student at Indian Institute of Technology Kanpur. I am pursuing my B.Tech majors in Materials Science and Engineering, with a minor in Industrial and Management Engineering. My interests vary across domains ranging from programming, economics, management to sociology, biomaterials and analytics.
 
 I love to learn and explore new stuff. Apart from my academics, I am actively involved in sports with a special liking towards running. I have recently started reading books and journaling. My other interests involve skeching, trekking, cycling and travelling.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
